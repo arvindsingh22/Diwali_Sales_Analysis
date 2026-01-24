@@ -10,7 +10,7 @@ To analyze the dataset and extract meaningful insights using Python.
 - Matplotlib
 - Seaborn  
 
-## 📊 Key Steps
+## 📊 Key Steps  
 - Data Cleaning
 - Handling Missing Values
 - Univariate & Bivariate Analysis
