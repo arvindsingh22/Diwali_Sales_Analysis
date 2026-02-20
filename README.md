@@ -11,7 +11,7 @@ To analyze the dataset and extract meaningful insights using Python.
 - Seaborn  
     
 ## 📊 Key Steps  
-- Data Cleaning
+- Data Cleaning  
 - Handling Missing Values
 - Univariate & Bivariate Analysis    
 - Data Visualization
