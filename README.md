@@ -12,7 +12,7 @@ To analyze the dataset and extract meaningful insights using Python.
       
 ## 📊 Key Steps  
 - Data Cleaning  
-- Handling Missing Values
+- Handling Missing Values  
 - Univariate & Bivariate Analysis    
 - Data Visualization
 - Insights & Conclusions
